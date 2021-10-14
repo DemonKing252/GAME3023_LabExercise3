@@ -1,3 +1,4 @@
+Lab Excercise 1/2:
 2D Lights:
 https://www.youtube.com/watch?v=nkgGyO9VG54&t=282s
 
@@ -9,3 +10,8 @@ https://www.deviantart.com/monkey22mm/art/Game-Sprite-Player-390402967
 https://assetstore.unity.com/packages/2d/environments/backyard-top-down-tileset-53854
 
 Everything else (shadows, tile palettes), were taken from the lecture in Week 3
+
+
+Lab Excercise 4:
+https://docs.unity3d.com/ScriptReference/JsonUtility.html
+https://www.youtube.com/watch?v=6uMFEM-napE&t=319s starting at 2:25
